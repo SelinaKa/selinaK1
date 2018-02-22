@@ -6,19 +6,37 @@
 	</head>
 	</div>
 	<body>
-		<header>Room Decor</header>
-		<nav>
+				<nav>
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="Accomplishments.html">Accomplishments</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="Home.html">Home</a></li>
+				<li><a href="aboutme.html">About Me</a></li>
+				<li><a href="Photography.html">Photography</a></li>
 			</ul>
+			<header>Selina Kaun</header>
 		</nav>
 		<div class="cvimg">
 		<img src="images\cv.jpg" style="display: block" alt="CV"></img>
 		</div>
 		<table border="1px" style="border-collapse:collapse">
+			<thead>
+				<tr>
+					<th colspan="2">Work Experience</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>2017 Summer</td>
+					<td>Duncan Terrace Cafe, Assistant manager</td>
+			</thead>
+			<thead>
+						<td>2016 Summer</td>
+					<td>La Pont De La Tour, Waitress</td>
+			</thead>
+			<thead>
+				<td>2015 Summer</td>
+					<td>Saint Luke's Community Center, Chef's Assistant</td>
+				</tr>
+			</thead>
 			<thead>
 				<tr>
 					<th colspan="2">Education</th>
@@ -27,18 +45,9 @@
 			<tbody>
 				<tr>
 					<td>2014 - Present</td>
-					<td>LCC International University,Bachelors in Contemporary Communication</td>
+					<td>LCC International University, Contemporary Communication BA</td>
 				</tr>
-			<thead>
-				<tr>
-					<th colspan="2">Work Experience</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>2017 - present</td>
-					<td>Michealsen Center, Gym Receptionist & Nuemann Receptionist</td>
-				</tr>
+
 			</tbody>
 			<thead>
 				<tr>
@@ -47,7 +56,7 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td colspan="2">Advanced Computer Skills, Mechanic, Weight-lifting</td>
+					<td colspan="2">Advanced Communication, Customoer service, Conflict Resolution Skills</td>
 				</tr>
 			</tbody>
 						<thead>
@@ -57,12 +66,12 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td colspan="2">Lithuanian (native), English (fluent)</td>
+					<td colspan="2">Lithuanian (native), English (fluent), German (Conversation)</td>
 				</tr>
 			</tbody>
 		</table>
 		<footer>
-		Copyright 2017-2018
+			"She made herself stronger by fighting with the wind" - The Secret Garden, Frances Hodgson Burnett
 		</footer>
 	</body>
 </html>
