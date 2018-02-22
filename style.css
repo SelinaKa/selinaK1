@@ -1,0 +1,76 @@
+body {
+	font-family:Courier MS
+	font-size: 40px;
+	color: red;
+}
+header {
+    background-color: #E0B6C6;
+    color: black;
+    padding: 15px;
+	font-size:35px;
+	text-align: center;
+	width: 100%;
+	height: 30px;
+}
+ footer {
+    background-color: #000000;
+    color: white;
+    padding: 15px;
+	font-size: 20px;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 25px;
+	position: absolute;
+ }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+	text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:20px;
+}
+
+ #profile {
+	float: left;
+}
+
+#home {
+   background: url("././images/bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ background-repeat: repeat-y;
+}
+
+.cvimg {
+	border: 2px solid white;
+	position: absolute;
+	top: 160px;
+	left: 750px;
+}
+
+table, th, td {
+   border: 1px solid black;
+   color: black;
+   font-size: 30px;
+   margin: 0 auto;
+   margin-top: 200px;
+   background-color: white;
+}
