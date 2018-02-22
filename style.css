@@ -13,15 +13,15 @@ header {
 	height: 30px;
 }
  footer {
-    background-color: #000000;
-    color: white;
+    background-color: #E0B6C6;
+    color: black;
     padding: 15px;
 	font-size: 20px;
 	text-align: center;
 	bottom: 0;
 	width: 100%;
 	height: 25px;
-	position: absolute;
+	position: static;
  }
 
 ul {
