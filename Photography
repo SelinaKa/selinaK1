@@ -6,13 +6,12 @@
 	</head>
 	</div>
 	<body>
-		<header>Kipras Citukas</header>
+		<header>Selina Kaun</header>
 		<nav>
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="accomplishments.html">Accomplishments</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="Home.html">Home</a></li>
+				<li><a href="aboutme.html">About Me</a></li>
+				<li><a href="Photography.html">Photography</a></li>
 			</ul>
 		</nav>
 		<div class="pp1">
@@ -25,7 +24,7 @@
 			<img src="images/image3.jpg" style="display: inline-block; width: 32%; margin-right: 1%; margin-bottom: 0.5em; margin-top: 120px;"></img>
 		</div>
 		<footer>
-		Copyright 2017-2018
+			"She made herself stronger by fighting with the wind" - The Secret Garden, Frances Hodgson Burnett
 		</footer>
 	</body>
 </html>
